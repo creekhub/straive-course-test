@@ -1,0 +1,5 @@
+jobs:
+  test:
+    steps:
+      - name: joel.alaban@straive.com
+        run: echo "Hello, world!"
