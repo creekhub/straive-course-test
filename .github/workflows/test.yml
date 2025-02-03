@@ -1,3 +1,5 @@
+name: my_test
+
 jobs:
   test:
     steps:
